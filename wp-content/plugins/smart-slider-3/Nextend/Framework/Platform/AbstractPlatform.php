@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Nextend\Framework\Pattern\GetAssetsPathTrait&quot; not found in <b>C:\xampp\htdocs\testgithub1\wp-content\plugins\smart-slider-3\Nextend\Framework\Platform\AbstractPlatform.php</b> on line <b>9</b><br>

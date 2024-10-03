@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Nextend\Framework\Pattern\MVCHelperTrait&quot; not found in <b>C:\xampp\htdocs\testgithub1\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\SliderManager\SliderManager.php</b> on line <b>14</b><br>

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Nextend\Framework\Pattern\SingletonTrait&quot; not found in <b>C:\xampp\htdocs\testgithub1\wp-content\plugins\smart-slider-3\Nextend\Framework\Style\StyleStorage.php</b> on line <b>8</b><br>
